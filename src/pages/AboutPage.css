@@ -1,0 +1,38 @@
+#iconsContainer {
+  display: "flex";
+  flex-direction: "column";
+  max-height: "170px";
+  overflow-x: "auto";
+  flex-wrap: "wrap";
+  justify-content: "center";
+  align-items: "flex-start";
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-track-piece {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(230, 230, 230);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.637);
+  border-radius: 3px;
+}

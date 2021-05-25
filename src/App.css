@@ -1,0 +1,5 @@
+.mainContent {
+  box-sizing: border-box;
+  max-height: 100vh;
+  overflow: scroll;
+}
