@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.d651d096.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.3fb289ec.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.3fb289ec.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.7d1076e1.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.7d1076e1.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Portfolio-React/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dd5eb2a8.chunk.js": "/Portfolio-React/static/js/2.dd5eb2a8.chunk.js",
+    "static/js/2.dd5eb2a8.chunk.js.map": "/Portfolio-React/static/js/2.dd5eb2a8.chunk.js.map",
+    "index.html": "/Portfolio-React/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio-React/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d651d096.chunk.css.map": "/Portfolio-React/static/css/main.d651d096.chunk.css.map",
+    "static/js/2.dd5eb2a8.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.dd5eb2a8.chunk.js.LICENSE.txt",
+    "static/media/MongoDB_Logo_FullColorWhite_RGB.658ebe63.svg": "/Portfolio-React/static/media/MongoDB_Logo_FullColorWhite_RGB.658ebe63.svg",
+    "static/media/Upcycle-Notifications-min.d3b56bec.JPG": "/Portfolio-React/static/media/Upcycle-Notifications-min.d3b56bec.JPG",
+    "static/media/Upcycle-Searchpage-min.acd2284c.JPG": "/Portfolio-React/static/media/Upcycle-Searchpage-min.acd2284c.JPG",
+    "static/media/Upcycle-ViewItempage-min.0936f098.JPG": "/Portfolio-React/static/media/Upcycle-ViewItempage-min.0936f098.JPG",
+    "static/media/bootstrap.997c463d.svg": "/Portfolio-React/static/media/bootstrap.997c463d.svg",
+    "static/media/company-calendar-min.6fae9099.PNG": "/Portfolio-React/static/media/company-calendar-min.6fae9099.PNG",
+    "static/media/company-dashboard-min.9714b8bc.PNG": "/Portfolio-React/static/media/company-dashboard-min.9714b8bc.PNG",
+    "static/media/company-view-posted-jobs-min.5b8be3d6.PNG": "/Portfolio-React/static/media/company-view-posted-jobs-min.5b8be3d6.PNG",
+    "static/media/css3.1d74424c.svg": "/Portfolio-React/static/media/css3.1d74424c.svg",
+    "static/media/detailed_recipe-min.2852c69c.png": "/Portfolio-React/static/media/detailed_recipe-min.2852c69c.png",
+    "static/media/expressjs.75fff9be.svg": "/Portfolio-React/static/media/expressjs.75fff9be.svg",
+    "static/media/html5.5804150e.svg": "/Portfolio-React/static/media/html5.5804150e.svg",
+    "static/media/javascript.07314975.svg": "/Portfolio-React/static/media/javascript.07314975.svg",
+    "static/media/jquery.429008ec.svg": "/Portfolio-React/static/media/jquery.429008ec.svg",
+    "static/media/list_of_12-min.6cb59a5d.png": "/Portfolio-React/static/media/list_of_12-min.6cb59a5d.png",
+    "static/media/mysql.2cfbd8c8.svg": "/Portfolio-React/static/media/mysql.2cfbd8c8.svg",
+    "static/media/nodejs.52cbf9a8.svg": "/Portfolio-React/static/media/nodejs.52cbf9a8.svg",
+    "static/media/react.ae626225.svg": "/Portfolio-React/static/media/react.ae626225.svg",
+    "static/media/saved_recipe-min.a8ae1d56.png": "/Portfolio-React/static/media/saved_recipe-min.a8ae1d56.png",
+    "static/media/vsumargo-photo.2361c828.png": "/Portfolio-React/static/media/vsumargo-photo.2361c828.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d1076e1.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dd5eb2a8.chunk.js",
+    "static/css/main.d651d096.chunk.css",
+    "static/js/main.3fb289ec.chunk.js"
+  ]
+}
