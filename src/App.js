@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       <CssBaseline />
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router basename="/Portfolio-React">
         <Grid container>
           <Grid item xs={2} md={1}>
             <Navbar handleReverse={handleReverse} />
