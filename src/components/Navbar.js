@@ -54,7 +54,7 @@ function Navbar(props) {
         }
         setFocusProjects((prevState) => !prevState);
         break;
-      case "github":
+      case "contact":
         if (currentLocation === "/" || currentLocation === "/projects") {
           props.handleReverse(false);
         }

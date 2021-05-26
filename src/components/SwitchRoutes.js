@@ -14,17 +14,17 @@ function SwitchRoutes(props) {
     },
     from: {
       position: "absolute",
-      y: props.reverse ? "-130vh" : "130vh",
+      y: props.reverse ? "-150vh" : "150vh",
     },
     enter: {
-      //   position: "absolute",
+      position: "absolute",
       y: "0vh",
     },
     leave: {
-      //   position: "absolute",
-      y: props.reverse ? "130vh" : "-130vh",
+      position: "absolute",
+      y: props.reverse ? "150vh" : "-150vh",
     },
-    config: { duration: 1000 },
+    config: { duration: 1500 },
   });
 
   return transitions((props, item) => {

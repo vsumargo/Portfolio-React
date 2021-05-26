@@ -8,11 +8,14 @@ import IconCSS3 from "../images/svg-icons/css3.svg";
 import IconExpress from "../images/svg-icons/expressjs.svg";
 import IconReact from "../images/svg-icons/react.svg";
 import IconNodejs from "../images/svg-icons/nodejs.svg";
-import IconMongodb from "../images/svg-icons/MongoDB_Logo_FullColorWhite_RGB.svg";
+import IconMongodb from "../images/svg-icons/mongodb.svg";
 import IconMySql from "../images/svg-icons/mysql.svg";
 import IconHtml from "../images/svg-icons/html5.svg";
 import IconJavascript from "../images/svg-icons/javascript.svg";
 import IconJquery from "../images/svg-icons/jquery.svg";
+import LinkedinIcon from "../components/LinkedinIcon.js";
+import GithubIcon from "../components/GithubIcon.js";
+import ResumeIcon from "../components/ResumeIcon.js";
 
 function AboutPage() {
   function renderSvgIcons() {
@@ -34,18 +37,17 @@ function AboutPage() {
     return mapArray;
   }
   return (
-    <Grid container style={{ padding: "5vw", maxWidth:"100%"}} spacing={3}>
+    <Grid container style={{ padding: "5vw", maxWidth: "100%" }} spacing={3}>
       <Grid item xs={12}>
         <div>Hello, I'm</div>
       </Grid>
       <Grid item xs={12}>
-        <h1>VINCENT SUMARGO</h1>
+        <div className="page-title">VINCENT SUMARGO</div>
       </Grid>
-      <Grid item xs={3}>
+      <Grid item xs={6} sm={3}>
         <img src={userPic} alt="profile" width="100%" height="" />
       </Grid>
-      <Grid item xs={9}>
-        <h2>ABOUT ME</h2>
+      <Grid item xs={10} sm={8}>
         <h6>
           Full-Stack Web Developer <span>/</span> Civil Engineer
         </h6>
@@ -66,8 +68,13 @@ function AboutPage() {
           </p>
         </div>
       </Grid>
+      <Grid item xs={2} sm={1} style={{padding:"1%"}}>
+        <LinkedinIcon />
+        <GithubIcon />
+        <ResumeIcon />
+      </Grid>
       <Grid item xs={12}>
-        <h1> LANGUAGE, FRAMEWORK & LIBARIES</h1>
+        <h4> LANGUAGE, FRAMEWORK & LIBARIES</h4>
       </Grid>
       <Grid
         item

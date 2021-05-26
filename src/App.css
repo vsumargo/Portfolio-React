@@ -3,3 +3,11 @@
   max-height: 100vh;
   overflow: scroll;
 }
+
+.page-title {
+  font-size: calc(2vw + 2vh);
+  color: white;
+  font-weight: 800;
+  text-shadow: 2px 2px 6px black;
+  margin-bottom: 24px;
+}

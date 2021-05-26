@@ -38,6 +38,9 @@ function ProjectsPage() {
   }
   return (
     <Grid container style={{ padding: "5vw", maxWidth: "100%" }}>
+    <Grid item xs={12}>
+      <div className="page-title">Project Portfolio</div>
+    </Grid>
       <Grid item xs={12}>
         <Grid container className="projectpage-image-container" spacing={2} alignItems="flex-end">
           {renderImageTiles()}
